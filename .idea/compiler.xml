@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springbootdeepdivein28steps" />
+        <module name="spring-boot-deep-dive-in-28-steps" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="springbootdeepdivein28steps" options="-parameters" />
+      <module name="spring-boot-deep-dive-in-28-steps" options="-parameters" />
     </option>
   </component>
 </project>
