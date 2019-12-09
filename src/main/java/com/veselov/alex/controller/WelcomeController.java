@@ -1,6 +1,6 @@
 package com.veselov.alex.controller;
 
-import com.veselov.alex.serivec.HiService;
+import com.veselov.alex.service.HiService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

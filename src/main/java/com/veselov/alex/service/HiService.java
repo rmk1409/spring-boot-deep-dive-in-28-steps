@@ -1,4 +1,4 @@
-package com.veselov.alex.serivec;
+package com.veselov.alex.service;
 
 import org.springframework.stereotype.Service;
 
